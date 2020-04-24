@@ -5,14 +5,14 @@
 export const environment = {
   production: false,
   firebaseConfig: {
-    apiKey: 'AIzaSyCCVLkipJLA5d0SFKcmiIglFNWYwNU_Vu0',
-    authDomain: 'lah-eje1.firebaseapp.com',
-    databaseURL: 'https://lah-eje1.firebaseio.com',
-    projectId: 'lah-eje1',
-    storageBucket: 'lah-eje1.appspot.com',
-    messagingSenderId: '400287180731',
-    appId: '1:400287180731:web:08bf39c05e2f50f717069e'
-  }
+      apiKey: 'AIzaSyAZvOPFtmjQ0ZvJXJnzNv7_iPk4OhJ_EZ0',
+      authDomain: 'actividad1-7fd84.firebaseapp.com',
+      databaseURL: 'https://actividad1-7fd84.firebaseio.com',
+      projectId: 'actividad1-7fd84',
+      storageBucket: 'actividad1-7fd84.appspot.com',
+      messagingSenderId: '156291205892',
+      appId: '1:156291205892:web:47bb317f71394d51ab9e51'
+    }
 };
 
 /*
